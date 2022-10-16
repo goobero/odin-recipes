@@ -10,6 +10,7 @@
     font-family: Monospace, Arial, sans-serif;
     font-weight: bold;
     color:brown;
+    margin-left: 5%
 }
 
 .description {
@@ -47,4 +48,13 @@ li {
 p {
     font-size: 17px;
     font-family: Monospace, Arial, sans-serif;
+}
+
+p,
+.subheadings-home,
+.heading,
+.subheading,
+li {
+    margin-left: 10%;
+    margin-right: 10%;
 }
