@@ -1,9 +1,8 @@
 .heading {
-    font-size: 35px;
+    font-size: 40px;
     font-family: Monospace, Arial, sans-serif;
-    font-weight: bold;
-    color:rgb(112, 6, 6);
-    text-align: left;
+    color: #7a3b2e;
+    text-align: center;
 }
 
 .subheading {
@@ -14,28 +13,35 @@
 }
 
 .description {
-    color: rgb(61, 61, 238)
+    color: #454140;
 }
 
 .ingredients {
-    color: rgb(228, 48, 123);
+    color: #bd5734;
 
 }
 
 .steps {
-    color: coral;
+    color: #a79e84;
 }
 
 
 img {
-    width: 600px;
-    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%
 }
 
 li {
     font-size: 17px;
     color: rgb(0, 0, 0);
     font-family: Monospace, Arial, sans-serif;
+}
+
+.subheadings-home {
+    font-size: 22.5px;
+    line-height: 1.5em;
 }
 
 p {
